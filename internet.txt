@@ -1,4 +1,0 @@
-T.BAT started at 
-07:51
-23-02-2025 
-removed !wq not found
